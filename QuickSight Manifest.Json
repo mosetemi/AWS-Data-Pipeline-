@@ -1,0 +1,12 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "https://tsm-csv-final-data.s3.us-east-1.amazonaws.com/run-1773424867456-part-r-00000.csv"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "textqualifier": "\""
+  }
+}
